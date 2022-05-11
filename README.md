@@ -22,7 +22,7 @@
 <h1 align="center">Hey 👋🏽, I'm Alyssha</h1>
 <h3 align="center">A Full-Stack Software Engineer from Austin, TX.</h3>
 
-<p align="center"> <a href="https://twitter.com/alysshalewin" target="blank"><img src="https://img.shields.io/twitter/follow/alysshalewin?logo=twitter&style=for-the-badge" alt="alysshalewin" /></a> </p>
+<!-- <p align="center"> <a href="https://twitter.com/alysshalewin" target="blank"><img src="https://img.shields.io/twitter/follow/alysshalewin?logo=twitter&style=for-the-badge" alt="alysshalewin" /></a> </p> -->
 
 
 Former Security Officer turned Software Engineer, I am dedicated to working in the tech industry and motivated by the power of technology as a tool for positive change.
