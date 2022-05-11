@@ -1,18 +1,26 @@
+<img src="https://i.imgur.com/il7Meyk.png" width="100%">
+
 <h1 align="center">Hey 👋🏽, I'm Alyssha</h1>
-<h3 align="center">A full stack software engineer from Austin, TX.</h3>
+<h3 align="center">A Full-Stack Software Engineer from Austin, TX.</h3>
 
 <p align="center"> <a href="https://twitter.com/alysshalewin" target="blank"><img src="https://img.shields.io/twitter/follow/alysshalewin?logo=twitter&style=for-the-badge" alt="alysshalewin" /></a> </p>
 
+
+Former Security Officer turned Software Engineer, I am dedicated to working in the tech industry and motivated by the power of technology as a tool for positive change.
+
+
+Check out [my website](https://alysshalewin.com) for more information!
+
 - 🌱 I’m currently learning **JavaScript**
 
-- 👩🏽‍💻 All of my projects are available at my [portfolio](https://alysshalewin.com)
+- 👩🏽‍💻 All of my projects are available at my [my website](https://alysshalewin.com)
 
 - 📫 Reach me at **alyssha.lew@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alysshalewin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alysshalewin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/alysshalewin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alysshalewin/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alysshalewin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alysshalewin/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
