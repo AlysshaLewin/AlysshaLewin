@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://alysshalewin.com)
+- 👩🏽‍💻 All of my projects are available at my [portfolio](https://alysshalewin.com)
 
 - 📫 Reach me at **alyssha.lew@gmail.com**
 
