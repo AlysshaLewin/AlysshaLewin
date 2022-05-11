@@ -1,5 +1,24 @@
 <img src="https://i.imgur.com/il7Meyk.png" width="100%">
 
+<p align="center">
+  <a href="https://alysshalewin.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=adb0e0&style=flat-square&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alysshalewin/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=fff4f7&style=flat-square&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/AlysshaLewin" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d1daf9&style=flat-square&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/alyssha-lewin" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=adb0e0&style=flat-square&logo=angellist&logo-color=white"/>
+  </a>
+<!--   <a href="" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a> -->
+</p>
+
+
 <h1 align="center">Hey 👋🏽, I'm Alyssha</h1>
 <h3 align="center">A Full-Stack Software Engineer from Austin, TX.</h3>
 
