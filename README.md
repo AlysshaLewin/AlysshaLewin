@@ -9,11 +9,10 @@
 Former Security Officer turned Software Engineer, I am dedicated to working in the tech industry and motivated by the power of technology as a tool for positive change.
 
 
-Check out [my website](https://alysshalewin.com) for more information!
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👩🏽‍💻 All of my projects are available at my [my website](https://alysshalewin.com)
+- 👩🏽‍💻 All of my projects are available at [my website](https://alysshalewin.com)
 
 - 📫 Reach me at **alyssha.lew@gmail.com**
 
