@@ -24,7 +24,7 @@
  -->
 
 <p align="center">
-Hey I'm Alyssha, a Full-Stack Software Engineer from Austin, TX. I'm a former Security Officer turned Software Engineer dedicated to working in the tech industry and motivated by the power of technology as a tool for positive change.
+Hey I'm Alyssha, a Full-Stack Software Engineer from Austin, TX. I'm a former Security Officer turned Software Engineer dedicated to working in the tech industry and motivated by the power of technology as a tool for positive change. Skilled in solving problems with HTML, CSS, JavaScript, React, SQL, Node, MongoDB, and Express.
 </p>
 
 <!-- 
