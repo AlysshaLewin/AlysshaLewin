@@ -54,7 +54,7 @@ Hey I'm Alyssha, a Full-Stack Software Engineer from Austin, TX. I'm a former Se
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=adb0e0"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5, Node</strong> - Study for a full stack web development interview</p>
+					<p><strong>JavaScript, CSS3, HTML5, Node</strong> - A Full Stack Web Dev Interview Flashcard App containing 150+ questions covering a large range of behavioral and technical questions.</p>
 				</div>
 			<!--project 2 -->
 <!-- 			<td width="50%">
