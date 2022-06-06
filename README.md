@@ -13,9 +13,9 @@
   <a href="https://angel.co/u/alyssha-lewin" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=adb0e0&style=for-the-badge&logo=angellist&logo-color=white"/>
   </a>
-<!--   <a href="" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a> -->
+  <a href="https://drive.google.com/file/d/1Qf4ak0P1lJYmDoJRjPKe7GvhfXBZah3A/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=fff4f7&style=for-the-badge&logo=react&logo-color=white"/>
+  </a>
 </p>
 
 
@@ -183,47 +183,29 @@ Hey I'm Alyssha, a Full-Stack Software Engineer from Austin, TX. I'm a former Se
 </br>
  -->
  
-<h3 align="center">Technologies</h3>
+<h1 align="center">Technologies</h1>
+
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
  
 
-<!-- CONTACT -->
+<!-- CONNECT -->
 
-<!-- <h2 align="center" color="white">Let's connect!</h2>
+<h1 align="center" color="white">Connect</h1>
+
 <p align="center">
-	<a href="https://twitter.com/alysshalewin" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/Ethodeus/readme-assets/95f529c0d5e9fad6c9a4b40039b6a4cc805bba11/GitHub%20Profile/Social%20media%20Icons/twitter.svg"
-			width="40px"
-			style="padding-left: 10px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
-	<a href="https://angel.co/u/alyssha-lewin" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/Ethodeus/readme-assets/95f529c0d5e9fad6c9a4b40039b6a4cc805bba11/GitHub%20Profile/Social%20media%20Icons/angellist.svg"
-			width="40px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
-	<a href="https://www.behance.net/blackintsub" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/Ethodeus/readme-assets/95f529c0d5e9fad6c9a4b40039b6a4cc805bba11/GitHub%20Profile/Social%20media%20Icons/behance.svg"
-			width="40px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
-	<a href="https://www.linkedin.com/in/alysshalewin/" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/Ethodeus/readme-assets/95f529c0d5e9fad6c9a4b40039b6a4cc805bba11/GitHub%20Profile/Social%20media%20Icons/linkedin-in.svg"
-			width="40px"
-		/>
-	</a>
-	&nbsp&nbsp&nbsp
-	<a href="https://github.com/AlysshaLewin" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/Ethodeus/readme-assets/95f529c0d5e9fad6c9a4b40039b6a4cc805bba11/GitHub%20Profile/Tech%20Skills/github.svg"
-			width="40px"
-		/>
-	</a>
-</p> -->
+  <a href="https://alysshalewin.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=adb0e0&style=for-the-badge&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alysshalewin/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=fff4f7&style=for-the-badge&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/AlysshaLewin" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d1daf9&style=for-the-badge&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/alyssha-lewin" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=adb0e0&style=for-the-badge&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1Qf4ak0P1lJYmDoJRjPKe7GvhfXBZah3A/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=fff4f7&style=for-the-badge&logo=react&logo-color=white"/>
+  </a>
+</p>
