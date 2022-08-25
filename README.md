@@ -60,8 +60,8 @@ Hey I'm Alyssha, a Full-Stack Software Engineer from Austin, TX. I'm a former Se
  			<td width="50%">
 				<h3 align="center" color="white">Coding Resources API</h2>
 				<div align="center" >
-< 					<a href="https://coding-resources-api.herokuapp.com/">
-						<img src="https://raw.githubusercontent.com/bytesbybianca/readme-assets/main/profile-images/coding-resources-api.gif" alt="a api of coding resources" height="200px" /> 
+ 					<a href="https://coding-resources-api.herokuapp.com/">
+						<img src="https://raw.githubusercontent.com/bytesbybianca/readme-assets/main/profile-images/coding-resources-api.gif" alt="a api of coding resources" /> 
 					</a>
 					<br>
 					<br>
@@ -78,7 +78,7 @@ Hey I'm Alyssha, a Full-Stack Software Engineer from Austin, TX. I'm a former Se
 					<p>This API serves educational content for a wide variety of computer science topics, languages and technologies relevant to web development.</p>
 				</div>
 			</td>
-		<tr> -->
+		<tr>
 			<!--project 3 -->
 <!-- 			<td width="50%">
 				<h3 align="center" color="white">Tic-Tac-Toe</h2>
