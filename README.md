@@ -54,28 +54,28 @@ Hey I'm Alyssha, a Full-Stack Software Engineer from Austin, TX. I'm a former Se
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=adb0e0"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5, Node</strong> - A Full Stack Web Dev Interview Flashcard App containing 150+ questions covering a large range of behavioral and technical questions.</p>
+					<p>A Full Stack Web Dev Interview Flashcard App containing 150+ questions covering a large range of behavioral and technical questions.</p>
 				</div>
 			<!--project 2 -->
-<!-- 			<td width="50%">
-				<h3 align="center" color="white">Coming Soon</h2>
-				<div align="center" >  -->
-<!-- 					<a href="https://coronavirusworlddata.netlify.app/">
-						<img src="https://github.com/20jasper/covid-tracker/raw/main/CovidTracker.jpg" alt="a site tracking COVID-19 statistics" height="200px" /> -->
+ 			<td width="50%">
+				<h3 align="center" color="white">Coding Resources API</h2>
+				<div align="center" >
+< 					<a href="https://coding-resources-api.herokuapp.com/">
+						<img src="https://raw.githubusercontent.com/bytesbybianca/readme-assets/main/profile-images/coding-resources-api.gif" alt="a api of coding resources" height="200px" /> 
 					</a>
 					<br>
 					<br>
 					<p>
                         <!--repo --> 
-<!-- 						<a href='https://github.com/20jasper/covid-tracker'>
+ 						<a href='https://github.com/the-api-administration/coding-resources-api'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>   -->
+						</a>   
                         <!--live site --> 
-<!-- 						<a href="https://coronavirusworlddata.netlify.app/">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						<a href="https://coding-resources-api.herokuapp.com/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=adb0e0"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - See the current world COVID deaths and cases in real time</p>
+					<p>This API serves educational content for a wide variety of computer science topics, languages and technologies relevant to web development.</p>
 				</div>
 			</td>
 		<tr> -->
