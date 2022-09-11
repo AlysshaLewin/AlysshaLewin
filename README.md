@@ -36,38 +36,38 @@ Hey I'm Alyssha, a Full-Stack Software Engineer from Austin, TX. I'm a former Se
 	<table>
 		<tr>
 			<!--project 1 -->
-			<td width="50%">
+			<td width="50%" valign="top">
 				<h3 align="center" color="white">Full Stack Interview Questions</h2>
 				<div align="center" > 
-					<a href="https://full-stack-interview-prep.up.railway.app/">
+					<a target="_blank" href="https://full-stack-interview-prep.up.railway.app/">
 						<img src="https://i.imgur.com/tOkY83M.gif" alt="An app that generates random interview questions" />
 					</a>
 					<p>
                         <!--repo --> 
-						<a href='https://github.com/AlysshaLewin/interview-question-api'>
+						<a href='https://github.com/AlysshaLewin/interview-question-api' target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         <!--live site --> 
-						<a href="https://full-stack-interview-prep.up.railway.app/">
+						<a href="https://full-stack-interview-prep.up.railway.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=adb0e0"/>
 						</a>	
 					</p>
 					<p>A Full Stack Web Dev Interview Flashcard App containing 150+ questions covering a large range of behavioral and technical questions.</p>
 				</div>
 			<!--project 2 -->
- 			<td width="50%">
+ 			<td width="50%" valign="top">
 				<h3 align="center" color="white">Coding Resources API</h2>
 				<div align="center" >
- 					<a href="https://coding-resources-api.herokuapp.com/">
+ 					<a href="https://coding-resources-api.herokuapp.com/" target="_blank">
 						<img src="https://raw.githubusercontent.com/bytesbybianca/readme-assets/main/profile-images/coding-resources-api.gif" alt="a api of coding resources" /> 
 					</a>
 					<p>
                         <!--repo --> 
- 						<a href='https://github.com/the-api-administration/coding-resources-api'>
+ 						<a href='https://github.com/the-api-administration/coding-resources-api' target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>   
                         <!--live site --> 
-						<a href="https://coding-resources-api.herokuapp.com/">
+						<a href="https://coding-resources-api.herokuapp.com/" target="_blank">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=adb0e0"/>
 						</a>	
 					</p>
