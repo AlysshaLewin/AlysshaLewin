@@ -58,7 +58,7 @@ Hey I'm Alyssha, a Full-Stack Software Engineer from Austin, TX. I'm a former Se
  			<td width="50%" valign="top">
 				<h3 align="center" color="white">Coding Resources API</h2>
 				<div align="center" >
- 					<a href="coding-resources-api.up.railway.app/" target="_blank">
+ 					<a href="https://coding-resources-api.up.railway.app/" target="_blank">
 						<img src="https://raw.githubusercontent.com/bytesbybianca/readme-assets/main/profile-images/coding-resources-api.gif" alt="a api of coding resources" /> 
 					</a>
 					<p>
@@ -67,7 +67,7 @@ Hey I'm Alyssha, a Full-Stack Software Engineer from Austin, TX. I'm a former Se
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>   
                         <!--live site --> 
-						<a href="coding-resources-api.up.railway.app/" target="_blank">
+						<a href="https://coding-resources-api.up.railway.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=adb0e0"/>
 						</a>	
 					</p>
