@@ -1,31 +1,21 @@
-<img src="https://i.imgur.com/il7Meyk.png" width="100%">
+<!--<img src="https://i.imgur.com/il7Meyk.png" width="100%">-->
 
-<p align="center">
-  <a href="https://alysshalewin.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=adb0e0&style=for-the-badge&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alysshalewin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=fff4f7&style=for-the-badge&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/AlysshaLewin" target="_blank">
+
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d1daf9&style=for-the-badge&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://angel.co/u/alyssha-lewin" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=adb0e0&style=for-the-badge&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1Qf4ak0P1lJYmDoJRjPKe7GvhfXBZah3A/view?usp=sharing" target="_blank">
+
+<!-- <a href="https://drive.google.com/file/d/1Qf4ak0P1lJYmDoJRjPKe7GvhfXBZah3A/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=fff4f7&style=for-the-badge&logo=react&logo-color=white"/>
   </a>
-</p>
+</p> -->
 
 
 <!-- <h1 align="center">Hey 👋🏽, I'm Alyssha</h1>
 <h3 align="center">A Full-Stack Software Engineer from Austin, TX.</h3>
  -->
 
-<p align="left">
+<!--<p align="left">
 Hey I'm Alyssha, a Full-Stack Software Engineer from Austin, TX. I'm a former Security Officer turned Software Engineer dedicated to working in the tech industry and motivated by the power of technology as a tool for positive change. Skilled in solving problems with HTML, CSS, JavaScript, React, SQL, Node, MongoDB, and Express.
-</p>
+</p>-->
 
 
  
